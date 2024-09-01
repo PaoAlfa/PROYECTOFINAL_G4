@@ -10,4 +10,4 @@ Este proyecto tiene como objetivo desarrollar un modelo para la detección de c�
   ## Uso
 
 1. Ejecuta el notebook `Preprocesamiento_de_imagenes_Detección_temprana_de_lesiones_de_piel.ipynb` para el análisis exploratorio de datos.
-2. Utiliza los datos llamdaos en las rutas para entrenar el modelo.
+2. Utiliza los datos llamados en las rutas para entrenar el modelo.
