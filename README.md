@@ -22,6 +22,7 @@ Este proyecto tiene como objetivo desarrollar un algoritmo de clusterización pa
 
 ![Lesión Cutánea en el Torso](https://drive.google.com/uc?export=view&id=1jDEJzlPRqr2xVLKGXUFiPLfs1HCBfrOi)
 
+*Fuente: [Kaggle - ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge)*
 
 ## Uso
 
