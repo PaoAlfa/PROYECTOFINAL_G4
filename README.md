@@ -20,7 +20,8 @@ Este proyecto tiene como objetivo desarrollar un algoritmo de clusterización pa
 - `documentos/`: Documentación y reportes del proyecto al ser una base de datos pesada se debe ir a un enlace publico con carpeta de base de datos en drive
 - `data/`: Contiene datos brutos y procesados. [Enlace_acceso_bd](https://github.com/PaoAlfa/PROYECTOFINAL_G4/blob/Data/Enlace_acceso_bd)
 
-![Lesión Cutánea en el Torso]([(https://drive.google.com/file/d/1jDEJzlPRqr2xVLKGXUFiPLfs1HCBfrOi/view?usp=drive_link])
+![Lesión Cutánea en el Torso](https://drive.google.com/uc?export=view&id=1jDEJzlPRqr2xVLKGXUFiPLfs1HCBfrOi)
+
 
 ## Uso
 
