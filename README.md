@@ -59,11 +59,11 @@ with h5py.File('train-image.hdf5', 'r') as f:
         lista.append(name)
     print(lista)
 
+---
+
 ## **Bibliografía**
 
 1. Codella, N., et al. (2017). *Deep learning ensembles for melanoma recognition in dermoscopy images*. IBM Journal of Research and Development. Recuperado de: [https://doi.org/10.48550/arXiv.1610.04662](https://doi.org/10.48550/arXiv.1610.04662)
 2. International Skin Imaging Collaboration. (2024). *The ISIC 2024 Challenge Dataset*. Recuperado de: [https://doi.org/10.34970/2024-slice-3d](https://doi.org/10.34970/2024-slice-3d)
 3. Nicholas Kurtansky, et al. (2024). *ISIC 2024 - Skin Cancer Detection with 3D-TBP*. Recuperado de: [https://kaggle.com/competitions/isic-2024-challenge](https://kaggle.com/competitions/isic-2024-challenge)
 4. Yu, L., et al. (2017). *Automated melanoma recognition in dermoscopy images via very deep residual networks*. IEEE Transactions on Medical Imaging. Recuperado de: [https://doi.org/10.1109/TMI.2016.2642839](https://doi.org/10.1109/TMI.2016.2642839)
-
----
