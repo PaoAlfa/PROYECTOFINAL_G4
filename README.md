@@ -69,4 +69,5 @@ with h5py.File('train-image.hdf5', 'r') as f:
     print(lista)
 
 ---
+![Lesión Cutánea en el Torso]([(https://drive.google.com/file/d/1jDEJzlPRqr2xVLKGXUFiPLfs1HCBfrOi/view?usp=drive_link])
 
