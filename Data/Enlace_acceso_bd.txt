@@ -1,0 +1,2 @@
+Link con carpeta en drive que contiene la base de datos completa Contiene datos brutos y procesados, train y test data:
+https://drive.google.com/drive/folders/1CJZAEBAgIkF18Gkp2U6742tvMD7GBNHK?usp=sharing
