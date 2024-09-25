@@ -1,4 +1,4 @@
-# Detección Temprana de Lesiones Cutáneas del Torso con IA
+# Detección Temprana de Lesiones Cutáneas del Torso Posterior Inferior con IA
 
 **Universidad de los Andes**  
 **Curso: Aprendizaje No Supervisado**
