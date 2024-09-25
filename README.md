@@ -12,12 +12,13 @@
 
 ## Resumen
 
-Este proyecto tiene como objetivo desarrollar un algoritmo de clusterización para detectar lesiones cutáneas en imágenes del torso. El algoritmo clasificará las imágenes en dos clústeres: piel sana y piel con lesión. Para lograr esto, se utilizará una muestra de aproximadamente 10,000 imágenes de un dataset de 401,059. Se aplicarán técnicas de reducción de dimensionalidad como PCA (Análisis de Componentes Principales) y SVD (Descomposición en Valores Singulares), así como algoritmos de clusterización para extraer conclusiones demográficas y encontrar grupos de personas con mayor riesgo de contraer cáncer de piel.
+Este mediante el análisis de imágenes de lesiones de piel, se desarrollará un algoritmo de clustering jerárquico aglomerativo para marcar y segmentar las áreas afectadas. Se utilizará una matriz de distancias reducida mediante PCA para realizar un clustering jerárquico. Con la matriz reducida se marcarán las áreas de la lesión cutánea mediante dos técnicas: encontrar el área que contenga un patrón diferente en la fotografía por el promedio de los colores y encontrar dos clústeres (piel sana y piel con lesión) mediante el algoritmo de KMedoides. El análisis se centrará en lesiones del torso posterior inferior. Se extraerá una muestra de 4.596 imágenes de un dataset de 401.059. Los resultados obtenidos permitirán identificar patrones asociados a diferentes tipos de lesiones y contribuirán al desarrollo de una herramienta de apoyo para clasificación de imágenes, facilitando la identificación de alertas tempranas de lesiones cutáneas.
+
 
 ## Estructura del Repositorio
 
 - `notebooks/`: Incluye notebooks de Jupyter para análisis y entrenamiento de modelos.
-- `documentación/`: Documentación y reportes del proyecto: propuestas teoricas.
+- `documentación/`: Documentación y reportes del proyecto: propuestas teoricas y video resumen del proyecto.
 - `data/`: Contiene datos brutos y procesados. [Enlace_acceso_bd](https://github.com/PaoAlfa/PROYECTOFINAL_G4/blob/Data/Enlace_acceso_bd). Al ser una base de datos pesada se debe ir a un enlace publico con carpeta de base de datos en drive.
 
 ![Lesión Cutánea en el Torso](https://drive.google.com/uc?export=view&id=1jDEJzlPRqr2xVLKGXUFiPLfs1HCBfrOi)
